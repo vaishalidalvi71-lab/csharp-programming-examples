@@ -24,3 +24,9 @@ interviews.
 
 - C#
 - .NET
+
+## C# Video Tutorials
+
+Practical C# programming concepts are also explained through video
+tutorials on my YouTube channel, ProgramSnippets.
+[ProgramSnippets YouTube Channel](https://www.youtube.com/@programsnippets5975).
